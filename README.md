@@ -17,7 +17,7 @@ To run the Docker image:
 docker run -it -p 3000:3000 ndslabs/iqvoc
 ```
 
-The image will be pulled from [DockerHub](https://hub.docker.com/) if ti does not already exist on your local machine.
+The image will be pulled from [DockerHub](https://hub.docker.com/) if it does not already exist on your local machine.
 
 ## See also
 * https://github.com/nds-org/ndslabs
